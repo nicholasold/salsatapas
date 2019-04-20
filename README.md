@@ -36,6 +36,7 @@ Documentation and Support
 
 Issues
 -------------
+nokogiri update needed
 
 Similar Projects
 ----------------
