@@ -37,6 +37,7 @@ Documentation and Support
 Issues
 -------------
 nokogiri update needed
+new version of devise
 
 Similar Projects
 ----------------
